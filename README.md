@@ -1,4 +1,4 @@
-- 👋 Howdy y'all, I’m Walker Blackston
+- 👋 Howdy y'all, I’m Walker Blackston!
 - 👀 I’m interested in healthcare analytics and health data science
 - 🌱 I’m currently learning machine learning in Python, and Bayesian inference
 - 💞️ I’m looking to collaborate on anything! 
